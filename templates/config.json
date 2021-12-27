@@ -1,0 +1,10 @@
+{
+    "params": {
+    "head": "Personal Blog",
+    "tag": "Blogs about life, philosophy and relationship",
+    "fb_url": "https://www.facebook.com/personalblog",
+    "t_url": "https://www.twitter.com/personalblog",
+    "gh_url": "https://www.github.com/personalblog"
+   
+    }
+}
